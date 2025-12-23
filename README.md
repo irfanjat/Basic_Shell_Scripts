@@ -14,6 +14,7 @@ A personal repository for my automation, customization, and utility scripts.
 | `hiirfan.sh` | Greeting or personalized notification script. |
 | `pushups.sh` | Fitness tracker to log or remind me about daily pushups. |
 | `for_weather.sh` | Showing the accurate weather details of cities. |
+| `for_internet_down.sh` | Showing the details of intenert is running or not |
 
 ## ⚙️ How to Use
 
