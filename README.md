@@ -13,6 +13,7 @@ A personal repository for my automation, customization, and utility scripts.
 | `getrichquick.sh` | A fun script or financial tracker. |
 | `hiirfan.sh` | Greeting or personalized notification script. |
 | `pushups.sh` | Fitness tracker to log or remind me about daily pushups. |
+| `for_weather.sh` | Showing the accurate weather details of cities. |
 
 ## ⚙️ How to Use
 
